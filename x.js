@@ -1,1 +1,1 @@
-alert(11)
+alert('XSS');
